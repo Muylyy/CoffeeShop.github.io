@@ -56,8 +56,6 @@ main{
                     a{
                         text-decoration: none;
                         color: var(--color-white);
-                        
-
                         img{
                             border-radius: 50%;
                             width: 70px;
